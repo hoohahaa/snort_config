@@ -1,0 +1,10 @@
+attribute_table.dtd
+file_magic.conf
+rules/
+threshold.conf
+classification.config
+gen-msg.map
+unicode.map
+community-sid-msg.map
+reference.config
+snort.debian.conf
